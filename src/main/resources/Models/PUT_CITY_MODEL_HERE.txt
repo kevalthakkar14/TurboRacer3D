@@ -1,0 +1,3 @@
+Place your extracted Kenney city kit model files in this folder.
+Keep related texture and material files in their original relative folders.
+This starter project does not include the downloaded Kenney asset pack.
